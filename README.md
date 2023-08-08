@@ -13,7 +13,7 @@
 - A stable internet connection.
 - Anydesk installed on your computer.
 - A system running 24/7.
-- >=4GB RAM is preferred but not necessary.
+- RAM of 4GB or more is preferred but not necessary.
 
 ```**Note:** We are only going to use your computer via Chrome, so your personal information is safe with us.```
 
