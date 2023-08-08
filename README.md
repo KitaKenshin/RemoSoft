@@ -1,7 +1,7 @@
 ```markdown
 # Remote Computer Lending Associate at RemoSoft
 
-```RemoSoft, a leading tech company, is currently seeking individuals from Argentina, Australia, Canada, Great Britain, New Zealand, Mexico, United States, and India to join our innovative team as Remote Computer Lending Associates. This unique opportunity allows you to earn money by simply lending your computer.``` 
+`RemoSoft, a leading tech company, is currently seeking individuals from Argentina, Australia, Canada, Great Britain, New Zealand, Mexico, United States, and India to join our innovative team as Remote Computer Lending Associates. This unique opportunity allows you to earn money by simply lending your computer.`
 
 ## Responsibilities
 
