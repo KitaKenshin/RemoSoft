@@ -1,16 +1,36 @@
-##Job Description:
+```markdown
+# Job Description
 
-```We are currently seeking individuals worldwide who can support our website testing projects. We have two distinct opportunities available for you to participate in, with each providing a unique way to earn income.```
+**Contact Information:** Please contact me at codeartist0725@gmail.com. Please **do not** contact through Fiverr platform. 
 
-##Project 1 - Computer Borrowing:
-```If you have 2 or more computers that can be shared, we are willing to pay 100$/month to borrow them. Safety of your personal information is guaranteed as we only require the use of your computer, nothing else. Our company will connect to your device via Anydesk, therefore stable internet connection is needed, and we prefer computers with 4GB RAM or higher. There are no specifications needed for your system as we will only use Google Chrome. Join us today and turn your idle computer into a money-making machine.```
+## Project 1: Computer Share 
 
-##Project 2 - Website Tester:
-```We are also recruiting website testers, and applicants should send their resumes to our project email. Your resume doesn't require any specific formatting or complex detailing. However, it must contain relevant information like your full name. Upon registration, you will receive a link for KYC verification. Once your identity is verified, you will receive $100, as part of our initiative to test Persona website's new AI engine's match with resumes and IDs.```
+We are looking for individuals who can lend their computers for worldwide website testing. This can be a lucrative opportunity for you if you have 2 or more computers that you can share with us. 
 
-```You have the flexibility to apply for either or both of the projects and begin earning immediately. If interested, please reach out directly to us via email for quick and immediate turnaround. Remember, we only accept communications through the mentioned email address and not through the Fiverr platform. ```
+**Remuneration:** $100/month (For your support).
 
-##Contact Information: 
-```Email: codeartist0725@gmail.com```
+**Requirements:**
 
-```Buy a computer, join us today, and start turning your idle time into profits. Remember, if you have any queries or want to apply, don't hesitate to email us.```
+- A stable internet connection.
+- Anydesk installed on your computer.
+- A system running 24/7.
+- >=4GB RAM is preferred but not necessary.
+
+**Note:** We are only going to use your computer via Chrome, so your personal information is safe with us.
+
+## Project 2: Website Testing 
+
+If you are applying for a tester job, please send your resume at **codeartist0725@gmail.com**. We do not require a complex resume or check the quality of the resume. Just make sure your resume includes your full name. 
+
+**Process:**
+
+- Once registered, you will receive a KYC link.
+- Once your identity is verified, you will get $100. 
+
+**Note:** We are testing Persona website's new AI engine for relevant match with resume and ID.
+
+You can apply for any or both of these projects. If you are interested, please don't hesitate to send an email.
+
+Let's consider this as an opportunity to turn idle machines into money-making ones. Looking forward to hearing from you!
+
+```
