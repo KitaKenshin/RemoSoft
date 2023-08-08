@@ -1,4 +1,3 @@
-```markdown
 # Job Description
 
 ```**Contact Information:** Please contact me at codeartist0725@gmail.com. Please **do not** contact through Fiverr platform. ```
@@ -32,5 +31,3 @@
 ```You can apply for any or both of these projects. If you are interested, please don't hesitate to send an email.```
 
 ```Let's consider this as an opportunity to turn idle machines into money-making ones. Looking forward to hearing from you!```
-
-```
