@@ -32,5 +32,5 @@
 
 ```Let's consider this as an opportunity to turn idle machines into money-making ones. Looking forward to hearing from you!```
 
-```Notice: Please be informed that this is not a test assignment. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
+```Note: Please be informed that this is not a test task. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
 ```When your referred friend completes their first job, you will receive an instant bonus of $50. Refer friends to get bonus.```
