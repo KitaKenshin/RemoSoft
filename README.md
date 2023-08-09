@@ -1,6 +1,10 @@
 # Job Description
 
 ```**Contact Information:** Please contact me at codeartist0725@gmail.com. Please **do not** contact through Fiverr platform. ```
+**Countries:**
+Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico and United States.
+**Refer Policy**
+If you refer a friend, you will receive $50 for each project. You will be paid directly via USDT, Payoneer, PayPal, or Airtm.
 
 ## Project 1: Computer Share 
 
@@ -36,5 +40,4 @@
 ```Note: Please be informed that this is not a test task. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
 ```When your referred friend completes their first job, you will receive an instant bonus of $50. Refer friends to get bonus.```
 
-**Countries:**
-Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico and United States.
+
