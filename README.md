@@ -8,7 +8,7 @@ Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico and Unit
 **Referral Payment:**
 If you refer a friend, you will receive $50 for each project. You will be paid directly via USDT, Payoneer, PayPal, or Airtm.
 
-## Project 1: Computer Share 
+## Project 1: Computer Share (Long-Term Support)
 
 ```We are looking for individuals who can lend their computers for worldwide website testing. This can be a lucrative opportunity for you if you have 2 or more computers that you can share with us. ```
 
