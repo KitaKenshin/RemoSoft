@@ -5,7 +5,7 @@
 **Countries:**
 Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico and United States.
 
-**Refer Policy**
+**Referral Payment:**
 If you refer a friend, you will receive $50 for each project. You will be paid directly via USDT, Payoneer, PayPal, or Airtm.
 
 ## Project 1: Computer Share 
