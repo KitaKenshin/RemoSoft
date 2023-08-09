@@ -1,8 +1,10 @@
 # Job Description
 
 ```**Contact Information:** Please contact me at codeartist0725@gmail.com. Please **do not** contact through Fiverr platform. ```
+
 **Countries:**
 Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico and United States.
+
 **Refer Policy**
 If you refer a friend, you will receive $50 for each project. You will be paid directly via USDT, Payoneer, PayPal, or Airtm.
 
