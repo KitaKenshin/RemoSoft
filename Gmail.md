@@ -12,4 +12,4 @@ Best regards,
 
 Kita Kenshin
 
-```Notice: Please be informed that this is not a test assignment. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
+```Note: Please be informed that this is not a test task. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
