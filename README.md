@@ -16,6 +16,7 @@
 - RAM of 4GB or more is preferred but not necessary.
 
 ```**Note:** We are only going to use your computer via Chrome, so your personal information is safe with us.```
+```After checking the computer via Anydesk, I am willing to pay $50 upfront.```
 
 ## Project 2: Website Testing 
 
