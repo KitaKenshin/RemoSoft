@@ -34,3 +34,6 @@
 
 ```Note: Please be informed that this is not a test task. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
 ```When your referred friend completes their first job, you will receive an instant bonus of $50. Refer friends to get bonus.```
+
+**Countries:**
+Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico and United States.
