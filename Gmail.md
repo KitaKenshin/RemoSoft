@@ -10,6 +10,4 @@ Hello there!
 
 Best regards,
 
-Kita Kenshin
-
 ```Note: Please be informed that this is not a test task. Payments are made immediately. You have the option to choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.```
